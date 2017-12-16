@@ -7,4 +7,4 @@ if num>1:
 	else:
 			print(num,"the number is  prime")
 else:
-	print("the number is not prime")# your code goes here
+	print("the number is not prime")
