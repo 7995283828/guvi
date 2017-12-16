@@ -1,4 +1,4 @@
-USING WHILE LOOP
+#USING WHILE LOOP
 
 string="HELLO"
 
@@ -12,7 +12,3 @@ while(n<5):
 
 
 
-USING FOR LOOP
-
-    for i in range(0,5):
-    		print("hello")	
